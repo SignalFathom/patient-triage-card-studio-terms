@@ -1,14 +1,3 @@
-Here’s your full updated **Terms and Conditions** text with:
-
-* **Effective Date** updated to **December 09, 2025**
-* Billing/subscription language updated to match the new privacy/billing description
-* Explicit mention of **Google Play Billing** and **RevenueCat**
-* Clear note that uninstalling / deleting the in-app account does **not** cancel the Google Play subscription
-
-You can paste this over your existing GitHub Terms page:
-
----
-
 # Patient Triage Card Studio
 
 by Signal Fathom, LLC
